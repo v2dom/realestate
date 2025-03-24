@@ -30,7 +30,7 @@ deepseek (advanced data analysis and insights)
 
 ## features
 
-- scrapes real estate listing data from sources like Zillow, Redfin, or Realtor.
+- scrapes real estate listing data from Zillow.
 
 - cleans and structures the data for analysis.
 
