@@ -1,12 +1,12 @@
 # Real Estate Data Scraper & Dashboard
 
-This tool is created to scrape real estate listings and visualize trends.
+This tool is created to scrape real estate listings and visualize trends. This was created with the help of DeepSeek, as this served as an introduction to web scraping. DeepSeek explained key topics, helped me overcome anti-scraping mechanisms, and aided the implementation of my ideas into code. AI drastically improved my productivity and allowed me to turn an idea into a fully operational prototype in about one workday's time.
 
 ## tech stack
 
 ### front
 
-streamlit (simple and interactive UI)
+streamlit (interactive UI)
 
 html & css (basic styling)
 
@@ -14,19 +14,13 @@ html & css (basic styling)
 
 python
 
-scrapy & beautifulsoup (web scraping)
+playwright (web scraping)
 
 pandas (data processing)
 
 matplotlib & plotly (data visualization)
 
 sqlite (storing scraped data)
-
-### AI
-
-chatgpt (natural language processing and automation)
-
-deepseek (advanced data analysis and insights)
 
 ## features
 
